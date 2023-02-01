@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @briankimwk
-- 👀 I’m interested in better understanding health and tech product data
-- 🌱 I’m currently learning the fundamentals of CS
-- 💞️ I’m looking to collaborate on anything and everything!
+- 👀 I’m interested in everything with medical image computer vision
+- 🌱 I’m currently learning the fundamentals of Pytorch/Monai for medical image processing
+- 💞️ I’m looking to collaborate on applying biostatistical methods to big health data
 - 📫 How to reach me: Twitter @briankimwk 
 
 <!---
