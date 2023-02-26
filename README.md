@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briankimwk
-- 👀 I’m interested in everything with medical image computer vision
-- 🌱 I’m currently learning the fundamentals of Pytorch/Monai for medical image processing
+- 👀 I’m interested in everything with biostatistics and medical imaging
+- 🌱 I’m currently learning the fundamentals of PyTorch for deep learning applications
 - 💞️ I’m looking to collaborate on applying biostatistical methods to big health data
 - 📫 How to reach me: Twitter @briankimwk 
 
