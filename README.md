@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @briankimwk
+- 👋 Hi, I’m @brianwskim
 - 👀 I’m interested in everything with biostatistics and medical imaging
 - 🌱 I’m currently learning the fundamentals of PyTorch for deep learning applications
 - 💞️ I’m looking to collaborate on applying biostatistical methods to big health data
