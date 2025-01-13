@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brianwskim
-- 👀 I’m interested in everything with medical imaging, muscle morphology and architecture.
-- 🌱 I’m currently learning the PyTorch for deep learning applications.
-- 💞️ I’m looking to collaborate on MRI and fMRI analysis of degenerative musculoskeletal and psychiatric conditions.
+- 👀 I’m interested in everything with medical imaging, muscle morphology and architecture
+- 🌱 I’m currently learning the radiomics and deep learning segementation processes
+- 💞️ I’m looking to collaborate on deep learning and radiomics research
 - 📫 How to reach me: Linkedin @brianwskim
 
 <!---
